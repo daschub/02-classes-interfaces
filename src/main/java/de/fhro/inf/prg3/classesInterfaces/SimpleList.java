@@ -13,9 +13,4 @@ public class SimpleList {
 
     }
 
-    public class SimpleIterator{
-
-
-    }
-
 }
