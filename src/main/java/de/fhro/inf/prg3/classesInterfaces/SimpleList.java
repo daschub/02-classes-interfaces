@@ -7,4 +7,15 @@ package de.fhro.inf.prg3.classesInterfaces;
 public class SimpleList {
 
 	//TODO
+    int size;
+
+    public class Item{
+
+    }
+
+    public class SimpleIterator{
+
+
+    }
+
 }
