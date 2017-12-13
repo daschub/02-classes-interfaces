@@ -5,11 +5,16 @@ package de.fhro.inf.prg3.classesInterfaces;
  * Created on 10/6/17.
  */
 public class SimpleList {
+    //TODO
 
-	//TODO
+     /**
+     * return current size of list
+     */
     int size;
 
-    public class Item{
+
+
+    void add (Object o){
 
     }
 
